@@ -1,0 +1,57 @@
+
+body, p {
+    color: darkred;
+    font-size: 30px;
+    text-align: center;
+    font-family: courier, monospace;
+    
+}
+
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: lightblue;
+    font-size: 45px;
+}
+
+header, h1 {
+    color: red;
+    font-size: 100px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+}
+
+li {
+    float: left;
+   color: white;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+p2{
+    color:aquamarine;
+    font-size: 30px;     
+}
+
+p1{
+    color:lightblue;
+    font-size: 30px;     
+}
+
+background {
+    background-color: lightblue;
+}
